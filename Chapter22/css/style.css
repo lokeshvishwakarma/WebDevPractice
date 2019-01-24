@@ -1,0 +1,36 @@
+ul{
+    margin: 0 auto;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+    height: 33.33vh;
+    width: 100%;
+}
+#orange, #white, #green{
+    height: 100%;
+}
+#orange{
+    background-color: #d35400;
+}
+
+#white{
+    background-color: white;
+/*    text-align: center;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#green{
+    background-color: green;
+}
+h1{
+/*    font-family: 'Satisfy', cursive;*/
+/*    font-family: 'Cookie', cursive;*/
+/*    font-family: 'Sacramento', cursive;*/
+    font-family: 'Handlee', cursive;
+    font-size: 60px;
+    font-style: italic;
+    color: blue;
+}
